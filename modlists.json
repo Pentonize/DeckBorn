@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Deckborn",
+    "description": "A modern gameplay modlist made with the steam deck in mind!",
+    "author": "Pentonize",
+    "maintainers": [
+      "github/Pentonize"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "testing",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "<link to an image to show in the UI>",
+      "readme": "<link to your readme for your modlist>",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "Deckborn",
+      "discordURL": "<your discord link here>"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "QpPFanX4148=",
+      "Size": 263352398,
+      "NumberOfArchives": 400,
+      "SizeOfArchives": 28236107173,
+      "NumberOfInstalledFiles": 74504,
+      "SizeOfInstalledFiles": 45995680460
+    },
+    "version": "0.0.1"
+  }
+]
+
