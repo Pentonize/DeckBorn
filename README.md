@@ -14,9 +14,6 @@ A Skyrim AE modlist built around the Steam Deck!
 
 # Installation
 
-a
-
-a
 ## Prerequisites
 Here is a list of all things you need to install the list!
 
@@ -24,7 +21,8 @@ Here is a list of all things you need to install the list!
 2. 50gbs of storage. This includes both the downloaded files and the main modlist install
 3. The latest wabbajack version from their website. 
 4. [Microsoft Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
-5. [.Net Runtime]()
+5. [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0/runtime)
+6. Nexus Premium ("Whilst not required it will speed up the install")
 
 
 
