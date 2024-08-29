@@ -7,17 +7,14 @@
 A Skyrim AE modlist built around the Steam Deck!
 
 - [Deckborn](#deckborn)
-- [Installation](#installation)
-  - [PreInstallation](#preinstallation)
-    - [Requirements](#requirements)
+- [PreInstallation](#preinstallation)
+  - [Requirements](#requirements)
 
 
 
-# Installation
+# PreInstallation
 
-## PreInstallation
-
-### Requirements
+## Requirements
 Here is a list of all things you need to install the list!
 
 1. A copy of Skyrim SE on steam with the AE DLC.
