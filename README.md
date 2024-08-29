@@ -104,7 +104,7 @@ sudo chown -R deck:deck /home/deck/Games/Skyrim/Deckborn
 ```
 and
 ```
-"sudo chmod -R 755 /home/deck/Games/Skyrim/Deckborn" 
+sudo chmod -R 755 /home/deck/Games/Skyrim/Deckborn
 ```
 Changing the directory as needed.
 
