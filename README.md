@@ -11,6 +11,7 @@ A Skyrim AE modlist built around the Steam Deck!
     - [Requirements](#requirements)
     - [Setting up Skyrim](#setting-up-skyrim)
     - [Wabbajack Installation](#wabbajack-installation)
+- [Installation](#installation)
 
 
 
@@ -41,5 +42,22 @@ You will need to reinstall skyrim from scratch. This is to ensure the game folde
 
 Wabbajack is a simple program to get set up and shouldn't be too much of a hassle even if you have never heard about it before. 
 
-Firstly head to the [Wabbajack Download Page](https://www.wabbajack.org)
+1. Firstly head to the [Wabbajack Download Page](https://www.wabbajack.org) and download the .exe to a location that is not a system controlled folder. I usually choose a folder I call "Bethesda Modding" on a seperate drive.
+2. Once you have the .exe in its own folder "G:\bethesdaModding\Wabbajack". You can run the program.
+3. Once the application loads you will need to configure some settings. 
+4. At the top right there will be a cog icon, click that.
+5. From there find the "Logins" Tab and login into nexus mods with your account.
+6. Wabbajack should be now configured!
 
+# Installation
+
+Now we can get to the good bit!
+
+Follow these Steps for greatness.
+
+1. Open Wabbajack
+2. On the main screen click "Browse Modlists"
+
+![alt text](<Assets/Browse Modlists.png>)
+
+3. Tick "Show Unofficial Lists"
