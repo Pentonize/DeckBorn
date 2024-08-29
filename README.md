@@ -41,21 +41,5 @@ You will need to reinstall skyrim from scratch. This is to ensure the game folde
 
 Wabbajack is a simple program to get set up and shouldn't be too much of a hassle even if you have never heard about it before. 
 
+Firstly head to the [Wabbajack Download Page](https://www.wabbajack.org)
 
-
-a
-
-
-a
-
-a
-a
-a
-
-
-
-aa
-
-
-a
-a
