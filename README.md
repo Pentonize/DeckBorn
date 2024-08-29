@@ -7,18 +7,18 @@
 A Skyrim AE modlist built around the Steam Deck!
 
 - [DeckBorn](#deckborn)
-  - [Installation](#installation)
+- [Installation](#installation)
   - [test](#test)
 
 
 
-## Installation
+# Installation
 
 a
 
 a
 ## test
-a
+
 
 
 
