@@ -84,5 +84,10 @@ You will still need to complete the main installation portion of the guide.
 3. Open steam in desktop mode.
 4. Add a non steam game and locate the "modorganizer.exe" from the location you put the modlist.
 5. Once added right click on the entry in steam and rename it to Deckborn.
-6. Click "Compatibility" and force the use of "Proton Experimental"
-7. Go back to the main shortcut settings scroll to launch options and input this "SteamDeck=0 %COMMAND%" If using an SD card also add "STEAM_COMPAT_MOUNTS=/run/media/mmcblk0p1"
+6. Click "Compatibility" and force the use of "Proton Experimental".
+7. Go back to the main shortcut settings scroll to launch options and input this "SteamDeck=0 %COMMAND%" If using an SD card also add "STEAM_COMPAT_MOUNTS=/run/media/mmcblk0p1".
+8. Almost there. Now go into the discover store and install "Proton Tricks".
+9. Once the install has finished use "Flatseal" or similar to ensure it has access to the SD Card If using it.
+
+This Next section has been adapted from [Omni-guides](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/General-Linux-Guide-(Anvil)) General Linux tutorial so give them some love if you can!
+
