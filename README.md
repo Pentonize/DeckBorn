@@ -12,6 +12,7 @@ A Skyrim AE modlist built around the Steam Deck!
     - [Setting up Skyrim](#setting-up-skyrim)
     - [Wabbajack Installation](#wabbajack-installation)
 - [Installation](#installation)
+- [Steam Deck Installation](#steam-deck-installation)
 
 
 
@@ -66,8 +67,22 @@ Follow these steps for greatness.
 6. Once the download has finished click the play icon on the same card.
 7. Now you will have some boxes to fill out .
 8. The "Target Modlist" will auto fill so do not worry about that.
-9. "Modlist Installation Location" Is where the actual list gets installed. So whereever you set this the mod list will end up after the installation.
+9. "Modlist Installation Location" Is where the actual list gets installed. So wherever you set this the mod list will end up after the installation.
 10. "Resource Download Location" is where all the downloaded files get stored. So you can put this somewhere else if you need to like and external drive!
-11. After this has been fileld out just press the Play button to start the installer!
+11. After this has been filled out just press the Play button to start the installer!
 
 Now if all goes well the list should install without a problem, however as all things tech related, errors are bound to occur. If this does happen please join the Discord to get installation support. 
+
+# Steam Deck Installation
+
+Continue here if you want to install this list onto the steam deck.
+
+You will still need to complete the main installation portion of the guide.
+
+1. Copy the mod list installation to an external drive. Any other method of copying the list to the steam deck works just an external drive is easiest in my opinion.
+2. Once the list is copied over you can place it anywhere on the steam deck, SSD or SD card are fine. But I would recommend that you either copy it to "/home/games" or anywhere on the SD card. 
+3. Open steam in desktop mode.
+4. Add a non steam game and locate the "modorganizer.exe" from the location you put the modlist.
+5. Once added right click on the entry in steam and rename it to Deckborn.
+6. Click "Compatibility" and force the use of "Proton Experimental"
+7. Go back to the main shortcut settings scroll to launch options and input this "SteamDeck=0 %COMMAND%" If using an SD card also add "STEAM_COMPAT_MOUNTS=/run/media/mmcblk0p1"
