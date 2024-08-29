@@ -98,7 +98,16 @@ You will still need to complete the main installation portion of the guide.
 This Next section has been adapted from [Omni-guides'](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/General-Linux-Guide-(Anvil)) General Linux tutorial so give them some love if you can!
 
 1. Find the directory of the modlist. For example "/home/deck/Games/Skyrim/Deckborn"
-2. Then open the terminal and run these 2 commands to change ownership to ensure you can control them. "sudo chown -R deck:deck /home/deck/Games/Skyrim/Deckborn" and "sudo chmod -R 755 /home/deck/Games/Skyrim/Deckborn" Changing the directory as needed.
+2. Then open the terminal and run these 2 commands to change ownership to ensure you can control them: 
+```
+sudo chown -R deck:deck /home/deck/Games/Skyrim/Deckborn
+```
+and
+```
+"sudo chmod -R 755 /home/deck/Games/Skyrim/Deckborn" 
+```
+Changing the directory as needed.
+
 3. Whilst still in the terminal window run:
 ```
 echo "alias protontricks='flatpak run com.github.Matoking.protontricks'" >> ~/.bashrc
