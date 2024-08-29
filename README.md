@@ -104,7 +104,13 @@ This Next section has been adapted from [Omni-guides'](https://github.com/Omni-g
 echo "alias protontricks='flatpak run com.github.Matoking.protontricks'" >> ~/.bashrc
 ```
 To allow proton tricks to run from the command line.
-4. And also run (sudo flatpak override com.github.Matoking.protontricks --filesystem=/home/deck/Games) To make proton to access the file system where the modlist is installed, again change where needed.
+
+4. And also run:
+```
+sudo flatpak override com.github.Matoking.protontricks --filesystem=/home/deck/Games
+
+```
+To make proton to access the file system where the modlist is installed, again change where needed.
 
 ### Running MO2
 
