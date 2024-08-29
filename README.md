@@ -18,6 +18,7 @@ A Skyrim AE modlist built around the Steam Deck!
   - [Steam Deck Installation](#steam-deck-installation)
     - [Running MO2](#running-mo2)
     - [Installing dependencies](#installing-dependencies)
+- [Conclusion](#conclusion)
 
 
 
@@ -130,3 +131,13 @@ Again thanks to [Omni-Guides](https://github.com/Omni-guides/Wabbajack-Modlist-L
 1. Since we set up proton tricks earlier we can now move onto a simple command thanks to Omni.
 2. Open the console and run this command "APPID=`protontricks -l | grep -i "Deckborn" | awk {'print $NF'} | sed 's:^.\(.*\).$:\1:'` ; protontricks --no-bwrap $APPID -q xact xact_x64 d3dcompiler_47 d3dx11_43 d3dcompiler_43 vcrun2022 dotnet6 dotnet7".
 3. Let this command run for a while. It should take a fair few minutes but once done that all you need to do!.
+
+
+
+# Conclusion
+
+There we have it! You should now have a working install of Deckborn on either your PC or steam deck! 
+
+Thanks for checking out the list and if you have any issues feel free to join the Discord linked at the top of this page. 
+
+And again Thank you to Omni-Guides for the work done compiling commands to run!
