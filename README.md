@@ -12,3 +12,28 @@ A Skyrim AE modlist built around the Steam Deck!
 
 
 ## Installation
+
+a
+
+a
+
+a
+
+a
+
+a
+
+
+a
+
+a
+a
+a
+
+
+
+aa
+
+
+a
+a
