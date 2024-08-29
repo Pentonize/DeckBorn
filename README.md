@@ -13,6 +13,7 @@ A Skyrim AE modlist built around the Steam Deck!
     - [Wabbajack Installation](#wabbajack-installation)
 - [Installation](#installation)
   - [Steam Deck Installation](#steam-deck-installation)
+    - [Running MO2](#running-mo2)
 
 
 
@@ -89,5 +90,11 @@ You will still need to complete the main installation portion of the guide.
 8. Almost there. Now go into the discover store and install "Proton Tricks".
 9. Once the install has finished use "Flatseal" or similar to ensure it has access to the SD Card If using it.
 
-This Next section has been adapted from [Omni-guides](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/General-Linux-Guide-(Anvil)) General Linux tutorial so give them some love if you can!
+This Next section has been adapted from [Omni-guides'](https://github.com/Omni-guides/Wabbajack-Modlist-Linux/wiki/General-Linux-Guide-(Anvil)) General Linux tutorial so give them some love if you can!
 
+1. Find the directory of the modlist. For example "/home/deck/Games/Skyrim/Deckborn"
+2. Then open the terminal and run these 2 commands to change ownership to ensure you can control them. "sudo chown -R deck:deck /home/deck/Games/Skyrim/Deckborn" and "sudo chmod -R 755 /home/deck/Games/Skyrim/Deckborn" Changing the directory as needed.
+3. Whilst still in the terminal window run "echo "alias protontricks='flatpak run com.github.Matoking.protontricks'" >> ~/.bashrc" to allow proton tricks to run from the command line.
+4. And also run "sudo flatpak override com.github.Matoking.protontricks --filesystem=/home/deck/Games" To make proton to access the file system where the modlist is installed, again change where needed.
+
+### Running MO2
