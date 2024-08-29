@@ -6,9 +6,9 @@
 
 A Skyrim AE modlist built around the Steam Deck!
 
-# Contents
+- [DeckBorn](#deckborn)
+  - [Installation](#installation)
 
-[Install](https://github.com/Pentonize/DeckBorn?tab=readme-ov-file#installation)
 
 
 ## Installation
@@ -19,7 +19,7 @@ a
 
 a
 
-a
+
 
 a
 
