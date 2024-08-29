@@ -7,13 +7,14 @@
 A Skyrim AE modlist built around the Steam Deck!
 
 - [Deckborn](#deckborn)
-- [PreInstallation](#preinstallation)
+- [Pre-Installation](#pre-installation)
     - [Requirements](#requirements)
     - [Setting up Skyrim](#setting-up-skyrim)
+    - [Wabbajack Installation](#wabbajack-installation)
 
 
 
-# PreInstallation
+# Pre-Installation
 
 ### Requirements
 Here is a list of all things you need to install the list!
@@ -33,7 +34,12 @@ You will need to reinstall skyrim from scratch. This is to ensure the game folde
 2. The locate where the game was installed prior to uninstallation and delete any remaining files
 3. Go to "C:\Users\YOURUSERNAME\Documents\My Games" and delete the "Skyrim Special edition" folder.
 4. Now go back into steam and install Skyrim Special Edition once again. Make sure to install it somewhere other than a system controlled folder. So do not install it in Program Files.
-5. 
+5. Once installed you will need to run the game once, first to load user settings and then after that launch the main game. Once on the main menu select "Download" on the AE content pop up. If this does not show up straight away you do not have the AE DLC.
+6. Once the download has completed you will be able to close the game and move onto the next step.
+
+### Wabbajack Installation
+
+Wabbajack is a simple program to get set up and shouldn't be too much of a hassle even if you have never heard about it before. 
 
 
 
