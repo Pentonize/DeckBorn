@@ -10,15 +10,15 @@
     "game": "skyrimspecialedition",
     "tags": [
       "testing",
-      "<any tags you want in the UI, each in its own string"
+      "Modern",
     ],
     "nsfw": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "<link to an image to show in the UI>",
-      "readme": "<link to your readme for your modlist>",
+      "image": "https://raw.githubusercontent.com/Pentonize/DeckBorn/main/Deckborn.png",
+      "readme": "https://github.com/Pentonize/DeckBorn/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "Deckborn",
       "discordURL": "https://discord.gg/KYgU4zbEZd"
