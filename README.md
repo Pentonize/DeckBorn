@@ -1,4 +1,4 @@
-# DeckBorn
+# Deckborn
 
 ![Deckborn](https://github.com/Pentonize/DeckBorn/blob/main/Deckborn.png)
 
@@ -6,15 +6,18 @@
 
 A Skyrim AE modlist built around the Steam Deck!
 
-- [DeckBorn](#deckborn)
+- [Deckborn](#deckborn)
 - [Installation](#installation)
-  - [Prerequisites](#prerequisites)
+  - [PreInstallation](#preinstallation)
+    - [Requirements](#requirements)
 
 
 
 # Installation
 
-## Prerequisites
+## PreInstallation
+
+### Requirements
 Here is a list of all things you need to install the list!
 
 1. A copy of Skyrim SE on steam with the AE DLC.
@@ -22,7 +25,7 @@ Here is a list of all things you need to install the list!
 3. The latest wabbajack version from their website. 
 4. [Microsoft Visual C++ x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 5. [.Net Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0/runtime)
-6. Nexus Premium ("Whilst not required it will speed up the install")
+6. Nexus Premium (Whilst not required it will speed up the install)
 
 
 
