@@ -94,7 +94,20 @@ This Next section has been adapted from [Omni-guides'](https://github.com/Omni-g
 
 1. Find the directory of the modlist. For example "/home/deck/Games/Skyrim/Deckborn"
 2. Then open the terminal and run these 2 commands to change ownership to ensure you can control them. "sudo chown -R deck:deck /home/deck/Games/Skyrim/Deckborn" and "sudo chmod -R 755 /home/deck/Games/Skyrim/Deckborn" Changing the directory as needed.
-3. Whilst still in the terminal window run "echo "alias protontricks='flatpak run com.github.Matoking.protontricks'" >> ~/.bashrc" to allow proton tricks to run from the command line.
-4. And also run "sudo flatpak override com.github.Matoking.protontricks --filesystem=/home/deck/Games" To make proton to access the file system where the modlist is installed, again change where needed.
+3. Whilst still in the terminal window run (echo "alias protontricks='flatpak run com.github.Matoking.protontricks'" >> ~/.bashrc) to allow proton tricks to run from the command line.
+4. And also run (sudo flatpak override com.github.Matoking.protontricks --filesystem=/home/deck/Games) To make proton to access the file system where the modlist is installed, again change where needed.
 
 ### Running MO2
+
+Now we can start running MO2
+
+1. Click Play on the "Deckborn" entry in steam (Still in desktop mode)
+2. You will get an error stating it failed to create a downloads folder. This is fine just close that window and reopen the Konsole
+3. In the console run (sed -i "/download_directory/c\download_directory =" /home/deck/Games/Skyrim/Deckborn/ModOrganizer.ini) or wherever you mod list is installed
+4. Now run Deckborn again from steam
+5. A new error will occur where it cannot open the instance. Again this is ok and we just need to point MO2 to our instance. 
+    1. Click ok on the error.
+    2. Click Browse.
+    3. Located the "Stock Game" folder in the mod list installation directory. For example "z:\home\deck\games\Skyrim\Deckborn\Stock Game".
+    4. Then just click open.
+    5. The splash screen for mo2 should now open!
