@@ -61,3 +61,13 @@ Follow these Steps for greatness.
 ![alt text](<Assets/Browse Modlists.png>)
 
 3. Tick "Show Unofficial Lists"
+4. Search for "Deckborn"
+5. Click the Download Icon on the card.
+6. Once the download has finished click the Play Icon on the same card.
+7. Now you will have some boxes to fill out 
+8. The "Target Modlist" Will auto fill so do not worry about that
+9. "Modlist Installation Location" Is where the actual list gets installed. So whereever you set this the mod list will end up after the installation.
+10. "Resource Download Location" Is where all the downloaded files get stored. So you can put this somewhere else if you need to like and external drive!
+11. After this has been fileld out just press the Play button to start the installer!
+
+Now if all goes well the list should install without a problem, however as all things tech related, errors are bound to occur. If this does happen please join the discord to get installation support. 
