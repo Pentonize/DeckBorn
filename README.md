@@ -129,7 +129,10 @@ Finally getting closer to finishing up. We just have to install some files to ou
 Again thanks to [Omni-Guides](https://github.com/Omni-guides/Wabbajack-Modlist-Linux) for compiling these commands
 
 1. Since we set up proton tricks earlier we can now move onto a simple command thanks to Omni.
-2. Open the console and run this command "APPID=`protontricks -l | grep -i "Deckborn" | awk {'print $NF'} | sed 's:^.\(.*\).$:\1:'` ; protontricks --no-bwrap $APPID -q xact xact_x64 d3dcompiler_47 d3dx11_43 d3dcompiler_43 vcrun2022 dotnet6 dotnet7".
+2. Open the console and run this command:
+```
+APPID=`protontricks -l | grep -i "Deckborn" | awk {'print $NF'} | sed 's:^.\(.*\).$:\1:'` ; protontricks --no-bwrap $APPID -q xact xact_x64 d3dcompiler_47 d3dx11_43 d3dcompiler_43 vcrun2022 dotnet6 dotnet7.
+```
 3. Let this command run for a while. It should take a fair few minutes but once done that all you need to do!.
 
 
