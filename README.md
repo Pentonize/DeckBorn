@@ -1,5 +1,7 @@
 # Deckborn
 
+# THIS LIST IS CURRENTLY NOT ACTIVE (WILL BE ACTIVE SOON)
+
 ![alt text](Assets/Deckborn.png)
 
 ![Discord](https://img.shields.io/discord/714478891602935819?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.gg%2FKYgU4zbEZd)
@@ -7,6 +9,7 @@
 A Skyrim AE modlist built around the Steam Deck!
 
 - [Deckborn](#deckborn)
+- [THIS LIST IS CURRENTLY NOT ACTIVE (WILL BE ACTIVE SOON)](#this-list-is-currently-not-active-will-be-active-soon)
 - [Pre-Installation](#pre-installation)
     - [Requirements](#requirements)
     - [Setting up Skyrim](#setting-up-skyrim)
@@ -14,6 +17,7 @@ A Skyrim AE modlist built around the Steam Deck!
 - [Installation](#installation)
   - [Steam Deck Installation](#steam-deck-installation)
     - [Running MO2](#running-mo2)
+    - [Installing dependencies](#installing-dependencies)
 
 
 
@@ -111,3 +115,18 @@ Now we can start running MO2
     3. Located the "Stock Game" folder in the mod list installation directory. For example "z:\home\deck\games\Skyrim\Deckborn\Stock Game".
     4. Then just click open.
     5. The splash screen for mo2 should now open!
+6. A pop up for handling nxm links will show, just press yes and move on.
+7. Once on the main mo2 screen opens head to the top bar and find the two cog icon that allows you to configure executables.
+8. Then on the new menu click the "Deckborn" executable and go to the "Binary" tab.
+9. Click the 3 dots at the end and navigate to "/LOCATION_OF_MODLIST/mods/SKSE/Root" Once there select skse64_loader.exe.
+10. In the box below "Start in" click the 3 dots and navigate to the same directory "/LOCATION_OF_MODLIST/mods/SKSE/Root".
+
+### Installing dependencies
+
+Finally getting closer to finishing up. We just have to install some files to our wine prefix to get the list up and runnning and to future proof the directory for any future updates.
+
+Again thanks to [Omni-Guides](https://github.com/Omni-guides/Wabbajack-Modlist-Linux) for compiling these commands
+
+1. Since we set up proton tricks earlier we can now move onto a simple command thanks to Omni.
+2. Open the console and run this command "APPID=`protontricks -l | grep -i "Deckborn" | awk {'print $NF'} | sed 's:^.\(.*\).$:\1:'` ; protontricks --no-bwrap $APPID -q xact xact_x64 d3dcompiler_47 d3dx11_43 d3dcompiler_43 vcrun2022 dotnet6 dotnet7".
+3. Let this command run for a while. It should take a fair few minutes but once done that all you need to do!.
