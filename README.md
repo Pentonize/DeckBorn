@@ -12,7 +12,7 @@ A Skyrim AE modlist built around the Steam Deck!
     - [Setting up Skyrim](#setting-up-skyrim)
     - [Wabbajack Installation](#wabbajack-installation)
 - [Installation](#installation)
-- [Steam Deck Installation](#steam-deck-installation)
+  - [Steam Deck Installation](#steam-deck-installation)
 
 
 
@@ -73,7 +73,7 @@ Follow these steps for greatness.
 
 Now if all goes well the list should install without a problem, however as all things tech related, errors are bound to occur. If this does happen please join the Discord to get installation support. 
 
-# Steam Deck Installation
+## Steam Deck Installation
 
 Continue here if you want to install this list onto the steam deck.
 
