@@ -4,6 +4,9 @@
 
 ![Discord](https://img.shields.io/discord/714478891602935819?style=flat&logo=discord&link=https://discord.gg/KYgU4zbEZd)
 
+![Static Badge](https://img.shields.io/badge/discord-passing-green?style=flat&logo=discord&link=https%3A%2F%2Fdiscord.gg%2FKYgU4zbEZd)
+
+
 
 
 
