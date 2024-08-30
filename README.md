@@ -15,6 +15,7 @@ A Skyrim AE modlist built around the Steam Deck!
   - [Steam Deck Installation](#steam-deck-installation)
     - [Running MO2](#running-mo2)
     - [Installing dependencies](#installing-dependencies)
+- [Post Install](#post-install)
 - [Conclusion](#conclusion)
 
 
@@ -150,6 +151,23 @@ Again thanks to [Omni-Guides](https://github.com/Omni-guides/Wabbajack-Modlist-L
 APPID=`protontricks -l | grep -i "Deckborn" | awk {'print $NF'} | sed 's:^.\(.*\).$:\1:'` ; protontricks --no-bwrap $APPID -q xact xact_x64 d3dcompiler_47 d3dx11_43 d3dcompiler_43 vcrun2022 dotnet6 dotnet7.
 ```
 3. Let this command run for a while. It should take a fair few minutes but once done that all you need to do!.
+
+
+# Post Install
+
+Now that the list is installed and set up you can now just launch the game using the "Deckborn" shortcut!
+
+There is one little thing to do after creating your character!
+
+1. Once you have created your character and you are in the main world pause the game and head to the MCM.
+2. Then click "MCM Recorder"
+3. Find the deckborn config
+4. Click it
+5. close the MCM
+6. and select "Run recording"
+7. This should load any configs that cannot be set before the game starts!
+
+
 
 
 
