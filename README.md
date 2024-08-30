@@ -1,7 +1,5 @@
 # Deckborn
 
-# THIS LIST IS CURRENTLY NOT ACTIVE (WILL BE ACTIVE SOON)
-
 ![alt text](Assets/Deckborn.png)
 
 ![Discord](https://img.shields.io/discord/714478891602935819?logo=discord&logoColor=white&link=https%3A%2F%2Fdiscord.gg%2FKYgU4zbEZd)
@@ -9,7 +7,6 @@
 A Skyrim AE modlist built around the Steam Deck!
 
 - [Deckborn](#deckborn)
-- [THIS LIST IS CURRENTLY NOT ACTIVE (WILL BE ACTIVE SOON)](#this-list-is-currently-not-active-will-be-active-soon)
 - [Pre-Installation](#pre-installation)
     - [Requirements](#requirements)
     - [Setting up Skyrim](#setting-up-skyrim)
