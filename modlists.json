@@ -20,18 +20,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Pentonize/DeckBorn/main/Deckborn.png",
       "readme": "https://github.com/Pentonize/DeckBorn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "download": "https://authored-files.wabbajack.org/Deckborn.wabbajack_d83b4362-706c-411d-85f9-b9556ca2052b",
       "machineURL": "Deckborn",
       "discordURL": "https://discord.gg/KYgU4zbEZd"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "QpPFanX4148=",
-      "Size": 263352398,
+      "Hash": "vd8kpa+cEKk=",
+      "Size": 266898456,
       "NumberOfArchives": 400,
-      "SizeOfArchives": 28236107173,
-      "NumberOfInstalledFiles": 74504,
-      "SizeOfInstalledFiles": 45995680460
+      "SizeOfArchives": 28260759102,
+      "NumberOfInstalledFiles": 74512,
+      "SizeOfInstalledFiles": 45968003561
     },
     "version": "0.0.1"
   }
