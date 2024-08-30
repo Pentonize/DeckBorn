@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Deckborn",
     "description": "A modern gameplay modlist made with the steam deck in mind!",
     "author": "Pentonize",
@@ -8,6 +7,7 @@
       "github/Pentonize"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "beta",
       "Modern",
@@ -15,26 +15,28 @@
       "Steam Deck"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": true,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Pentonize/DeckBorn/main/Assets/Deckborn.png",
       "readme": "https://github.com/Pentonize/DeckBorn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Deckborn.wabbajack_5fef0d05-14f8-4ab0-b96b-c8576c46d906",
+      "download": "https://authored-files.wabbajack.org/Deckborn.wabbajack_ba55ec96-2b5e-4238-a406-85a9f0cf3b63",
       "machineURL": "Deckborn",
       "discordURL": "https://discord.gg/KYgU4zbEZd"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "M0tlB+x6Ysg=",
-      "Size": 266900022,
-      "NumberOfArchives": 400,
-      "SizeOfArchives": 28260759102,
-      "NumberOfInstalledFiles": 74512,
-      "SizeOfInstalledFiles": 45968003540
+      "Hash": "lFmmt9E+AVQ=",
+      "Size": 266916899,
+      "NumberOfArchives": 402,
+      "SizeOfArchives": 28286566661,
+      "NumberOfInstalledFiles": 74537,
+      "SizeOfInstalledFiles": 45998622199
     },
-    "version": "0.0.1"
+    "version": "0.0.2",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2024-08-30T15:15:18.7435695Z",
+    "repositoryName": ""
   }
 ]
-
