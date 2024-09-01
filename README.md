@@ -16,6 +16,7 @@ A Skyrim AE modlist built around the Steam Deck!
     - [Running MO2](#running-mo2)
     - [Installing dependencies](#installing-dependencies)
 - [Post Install](#post-install)
+- [Support](#support)
 - [Conclusion](#conclusion)
 
 
@@ -166,6 +167,12 @@ There is one little thing to do after creating your character!
 5. close the MCM
 6. and select "Run recording"
 7. This should load any configs that cannot be set before the game starts!
+
+# Support
+
+For support with both installation and gameplay support you can join the [Discord](https://discord.gg/KYgU4zbEZd)
+
+For any bug reports you can find the link to the bug report form in the discord of you can find it [here](https://forms.clickup.com/9014609199/f/8cn019f-134/YDBSJ78BQLW45EJI55)
 
 
 
