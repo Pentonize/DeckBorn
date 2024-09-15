@@ -22,21 +22,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Pentonize/DeckBorn/main/Assets/Deckborn.png",
       "readme": "https://github.com/Pentonize/DeckBorn/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Deckborn.wabbajack_cce17c4f-aabb-4da2-820e-f7f81cef5764",
+      "download": "https://authored-files.wabbajack.org/Deckborn.wabbajack_b187448f-0ada-4940-b5ac-c92c5f81d86d",
       "machineURL": "Deckborn",
       "discordURL": "https://discord.gg/KYgU4zbEZd"
     },
     "download_metadata": {
-      "Hash": "AnXBHyl4EU0=",
-      "Size": 39029013,
-      "NumberOfArchives": 406,
-      "SizeOfArchives": 36477202322,
-      "NumberOfInstalledFiles": 42477,
-      "SizeOfInstalledFiles": 41550378312
+      "Hash": "MJBDxrgI1yc=",
+      "Size": 39235887,
+      "NumberOfArchives": 427,
+      "SizeOfArchives": 36593886103,
+      "NumberOfInstalledFiles": 44280,
+      "SizeOfInstalledFiles": 41871476556
     },
-    "version": "0.0.6",
+    "version": "0.1.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2024-09-01T11:13:20.8826893Z",
+    "dateUpdated": "2024-09-02T19:48:20.291636Z",
     "repositoryName": ""
   }
 ]
