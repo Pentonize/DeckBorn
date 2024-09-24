@@ -1,3 +1,7 @@
+# A Collection Of FAQs to help you!
+
+
+- [A Collection Of FAQs to help you!](#a-collection-of-faqs-to-help-you)
 - [How do I change my resolution and frame rate?](#how-do-i-change-my-resolution-and-frame-rate)
 
 
