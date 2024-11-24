@@ -170,9 +170,9 @@ There is one little thing to do after creating your character!
 
 # Support
 
-For support with both installation and gameplay support you can join the [Discord](https://discord.gg/KYgU4zbEZd)
+For support with both installation and Gameplay support you can join the [Discord](https://discord.gg/KYgU4zbEZd)
 
-For any bug reports you can find the link to the bug report form in the discord of you can find it [here](https://forms.clickup.com/9014609199/f/8cn019f-134/YDBSJ78BQLW45EJI55)
+For any bug reports you can find the link to the bug report form in the discord or you can find it [here](https://forms.clickup.com/9014609199/f/8cn019f-134/YDBSJ78BQLW45EJI55)
 
 
 
